@@ -27,18 +27,18 @@
 
 I'm a driven **Data Analyst & Business Analytics Professional** with a keen interest in **Machine Learning** and **AI applications**.
 
-- 🔍 Skilled at transforming raw data into business value with dashboards, models, and automated systems  
-- 🤖 On a mission to master AI/ML space
-- 📊 Experienced in Python, SQL, and R
-- 🎓 MS in Business Analytics and AI graduate from **UT Dallas** (May 2025)
+  🔍 Skilled at transforming raw data into business value with dashboards, models, and automated systems  
+  🤖 On a mission to master AI/ML space  
+  📊 Experienced in Python, SQL, and R  
+  🎓 MS in Business Analytics and AI graduate from **UT Dallas** (May 2025)
 
 ---
 
 ### Outside of data and code:
 
-- ⚽ I love playing soccer – it keeps me sharp, focused, and team-oriented  
-- 🏋️ I enjoy working out regularly as it helps me stay disciplined and mentally fresh  
-- 📚 My favorite book is *Shoe Dog* by Phil Knight — a reminder that resilience and passion are key to any journey  
+⚽ I love playing soccer – it keeps me sharp, focused, and team-oriented  
+🏋️ I enjoy working out regularly as it helps me stay disciplined and mentally fresh  
+📚 My favorite book is *Shoe Dog* by Phil Knight — a reminder that resilience and passion are key to any journey  
 
 
 ---
