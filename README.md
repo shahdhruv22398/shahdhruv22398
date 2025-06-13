@@ -8,7 +8,7 @@
   <a href="mailto:drshah22.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your-resume-link-here">
+  <a href="https://drive.google.com/file/d/1Bc1hsEiVsIhizuLeJJiSb2qjBP__LF7_/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-gray?style=for-the-badge&logo=docuSign&logoColor=white" />
   </a>
 </p>
