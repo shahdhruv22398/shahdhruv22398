@@ -63,12 +63,11 @@ I'm a driven **Data Analyst & Business Analytics Professional** with a keen inte
 
 **📍 The University of Texas at Dallas**  
 🎓 *MS in Business Analytics & Artificial Intelligence*  
-📅 *Feb 2024 – May 2025*  
+📅 *Aug 2023 – May 2025*  
 🎖️ Scholar with Recognition  
 
 **📍 University of Mumbai**  
-🎓 *B.E. in Chemical Engineering*  
-📅 *Aug 2016 – Oct 2020*
+🎓 *B.E. in Chemical Engineering*
 
 ---
 
