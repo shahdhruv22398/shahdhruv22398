@@ -56,16 +56,6 @@ I'm a driven **Data Analyst & Business Analytics Professional** with a keen inte
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
----
-
-## 🚀 Selected Projects
-
-| 💼 Project | Description | Tools |
-|-----------|-------------|-------|
-| **[🧠 ADARAN AI Chatbot](https://github.com/your-repo-link)** | Deployed a RAG-based chatbot for UTD queries with 1,500+ page coverage & 80%+ retrieval accuracy | `LangChain`, `Mistral`, `ChromaDB`, `Streamlit` |
-| **[📊 Netflix Data Analysis](https://github.com/your-repo-link)** | Explored trends across 2,000+ titles and revealed content strategy patterns | `Python`, `Pandas`, `Matplotlib` |
-| **[✈️ Airline Satisfaction Predictor](https://github.com/your-repo-link)** | Built an 87% accurate Random Forest model to identify key drivers of passenger satisfaction | `R`, `Random Forest`, `EDA` |
-| **[🗃️ SQL Certificate System](https://github.com/your-repo-link)** | Built a relational DBMS using SQL procedures, triggers, and ER modeling | `MySQL`, `Workbench`, `SQL` |
 
 ---
 
