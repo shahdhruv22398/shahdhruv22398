@@ -28,8 +28,8 @@
 I'm a driven **Data Analyst & Business Analytics Professional** with a keen interest in **Machine Learning** and **AI applications**.
 
   🔍 Skilled at transforming raw data into business value with dashboards, models, and automated systems  
-  🤖 On a mission to master AI/ML space  
-  📊 Experienced in Python, SQL, and R  
+  🤖 On a mission to master the AI/ML space
+  📊 Experienced in SQL, PowerBI, Tableau and PowerBI
   🎓 MS in Business Analytics and AI graduate from **UT Dallas** (May 2025)
 
 ---
