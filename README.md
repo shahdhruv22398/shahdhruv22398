@@ -29,7 +29,7 @@ I'm a driven **Data Analyst & Business Analytics Professional** with a keen inte
 
   🔍 Skilled at transforming raw data into business value with dashboards, models, and automated systems   
   🤖 On a mission to master the AI/ML space   
-  📊 Experienced in SQL, PowerBI, Tableau and PowerBI   
+  📊 Experienced in SQL, Python, PowerBI and Tableau   
   🎓 MS in Business Analytics and AI graduate from **UT Dallas** (May 2025)   
 
 ---
@@ -85,6 +85,3 @@ I'm a driven **Data Analyst & Business Analytics Professional** with a keen inte
 - 📄 [Resume](https://drive.google.com/file/d/1Bc1hsEiVsIhizuLeJJiSb2qjBP__LF7_/view?usp=drive_link)
 
 
----
-
-<p align="center"><i>"I don’t just analyze data—I turn it into opportunity."</i></p>
