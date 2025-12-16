@@ -82,6 +82,6 @@ I'm a driven **Data Analyst & Business Analytics Professional** with a keen inte
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahdhruv22)  
 - 📧 [Email](mailto:drshah22.work@gmail.com)  
-- 📄 [Resume](https://drive.google.com/file/d/1Bc1hsEiVsIhizuLeJJiSb2qjBP__LF7_/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/12WFJEGLq69gyVzCnuMUfHS32W5OlfoDS/view?usp=drive_link)
 
 
